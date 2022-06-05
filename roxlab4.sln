@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roxlab4", "roxlab4\roxlab4.csproj", "{058D2847-6C4B-4C90-9A39-7350128C293B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058D2847-6C4B-4C90-9A39-7350128C293B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058D2847-6C4B-4C90-9A39-7350128C293B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058D2847-6C4B-4C90-9A39-7350128C293B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058D2847-6C4B-4C90-9A39-7350128C293B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC93F13E-77F5-4AE0-B904-183B362D31AE}
+	EndGlobalSection
+EndGlobal
